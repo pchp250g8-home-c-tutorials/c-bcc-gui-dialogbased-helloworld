@@ -20,8 +20,15 @@ int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdL
 
 BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
-    hInst = hInstance;
-    INT_PTR nResponse = DialogBox(hInst, MAKEINTRESOURCE(IDD_HELLOWORLD_DIALOG), NULL, HelloWorldDlg);
+    INT_PTR nResponse;
+    INITCOMMONCONTROLSEX InitCtrls;
+    hInst = hInstance; // Сохранить маркер экземпляра в глобальной переменной
+    InitCtrls.dwSize = sizeof(InitCtrls);
+    // Выберите этот параметр для включения всех общих классов управления, которые необходимо использовать
+    // в вашем приложении.
+    InitCtrls.dwICC = ICC_WIN95_CLASSES;
+    InitCommonControlsEx(&InitCtrls);
+    nResponse = DialogBox(hInst, MAKEINTRESOURCE(IDD_HELLOWORLD_DIALOG), NULL, HelloWorldDlg);
     if (nResponse == IDOK)
     {
 

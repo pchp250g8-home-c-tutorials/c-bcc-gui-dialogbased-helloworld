@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.057,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\resource.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.637,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.744,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.354,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\resource.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\File1.c</Transaction>
     <Transaction>1899.12.30 00:00:00.000.984,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\framework.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.099,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.ico</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.625,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.146,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\small.ico</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.532,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.c=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\File1.c</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.009,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\File1.c=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.c</Transaction>
     <Transaction>1899.12.30 00:00:00.000.750,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.rc</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.251,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\small.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.088,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\targetver.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.607,D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorldPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorldPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\C\BDS\GUI\DoalogBased\InputOutput\HelloWorld\HelloWorld.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
